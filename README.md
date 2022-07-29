@@ -4,11 +4,12 @@ Hello! Nick Hodges here, and I am happy that you are interested in me speaking a
 ## :wave: Personal information
 
 * **Name:** Nick Hodges
-* **Company:** Rollbar
+* **Company:** Passage
 * **Job Title:** Developer Advocate
-* **Twitter:** [@nickhodges](https://twitter.com/nickhodges)
+* **Twitter (Personal):** [@nickhodges](https://twitter.com/nickhodges)
+* **Twitter (Professional):** [@passagenick](https://twitter.com/passagenick)
 * **LinkedIn:** [https://www.linkedin.com/in/nickhodges/](https://www.linkedin.com/in/nickhodges/)
-* **Blog/Homepage:** https://www.nickhodges.com
+* **Blog/Homepage: (Personal)** https://www.nickhodges.com
 * **Location:** West Chester, PA, USA
 
 <!-- ## :vhs: Videos of note
@@ -23,11 +24,11 @@ In case you are interested in seeing me in action, here are some talks I liked:
 
 ### Full Bio
 
-> Nick Hodges is the Developer Advocate for Rollbar and has been in love with code since he wrote crude text-based adventure games in BASIC using paper tape and a TTY Model 33.  Nick really got going with software development when he picked up a copy of Turbo Pascal for Windows and followed that on with Delphi.  Currently Nick is interested in Typescript and Angular development.  Nick has a BA in Classical Languages from Carleton College and an MS in Information Technology Management from the Naval Postgraduate School.  In his career he has been a busboy, a cook, a caddie, a telemarketer (for which he apologizes), an Office Manager, a high school teacher, a Naval Intelligence officer, a software developer, a product manager, and a software development manager. He's a passionate Minnesota sports fan -- especially the Timberwolves -- as he grew up and went to college in the Land of 10,000 Lakes.  He currrently lives in West Chester, PA.
+> Nick Hodges is the Developer Advocate for Passage and has been in love with code since he wrote crude text-based adventure games in BASIC using paper tape and a TTY Model 33.  Nick really got going with software development when he picked up a copy of Turbo Pascal for Windows and followed that on with Delphi.  Currently Nick is interested in Typescript and Angular development.  Nick has a BA in Classical Languages from Carleton College and an MS in Information Technology Management from the Naval Postgraduate School.  In his career he has been a busboy, a cook, a caddie, a telemarketer (for which he apologizes), an Office Manager, a high school teacher, a Naval Intelligence officer, a software developer, a product manager, and a software development manager. He's a passionate Minnesota sports fan -- especially the Timberwolves -- as he grew up and went to college in the Land of 10,000 Lakes.  He currrently lives in West Chester, PA.
 
 ### 100 Word Bio
 
-> Nick Hodges is the Developer Advocate for Rollbar and has been in love with code since he wrote crude text-based adventure games in BASIC using paper tape and a TTY Model 33.  Nick really got going with software development when he picked up a copy of Turbo Pascal for Windows and followed that on with Delphi.  Currently Nick is interested in Typescript and Angular development. He's a passionate Minnesota sports fan -- especially the Timberwolves -- as he grew up and went to college in the Land of 10,000 Lakes.  He currently lives in West Chester, PA.
+> Nick Hodges is the Developer Advocate for Passage and has been in love with code since he wrote crude text-based adventure games in BASIC using paper tape and a TTY Model 33.  Nick really got going with software development when he picked up a copy of Turbo Pascal for Windows and followed that on with Delphi.  Currently Nick is interested in Typescript and Angular development. He's a passionate Minnesota sports fan -- especially the Timberwolves -- as he grew up and went to college in the Land of 10,000 Lakes.  He currently lives in West Chester, PA.
 
 
 ## :love_letter: I am available, both in person and virtually, for...
@@ -41,8 +42,8 @@ In case you are interested in seeing me in action, here are some talks I liked:
 
 ## :gift: Subjects I cover...
 
-- [x] Rollbar Technologies
-- [X] Error Tracking, Logging, and Observability
+- [x] Passwordless Authentication
+- [x] Identity Access Management
 - [x] Scrum, Agile, and the SDLC
 - [x] SaaS Development
 - [x] Development practices and culture
