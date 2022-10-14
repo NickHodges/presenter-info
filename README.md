@@ -9,6 +9,7 @@ Hello! Nick Hodges here, and I am happy that you are interested in me speaking a
 * **Twitter (Personal):** [@nickhodges](https://twitter.com/nickhodges)
 * **Twitter (Professional):** [@passagenick](https://twitter.com/passagenick)
 * **LinkedIn:** [https://www.linkedin.com/in/nickhodges/](https://www.linkedin.com/in/nickhodges/)
+* **Developer Page:** [https://nickhodges.dev](https://nickhodges.dev)
 * **Blog/Homepage: (Personal)** https://www.nickhodges.com
 * **Location:** West Chester, PA, USA
 
