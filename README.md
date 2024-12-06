@@ -43,6 +43,7 @@ In case you are interested in seeing me in action, here are some talks I liked:
 ## :gift: Subjects I cover...
 
 - [x] Passwordless Authentication
+- [x] Astro Framework Development
 - [x] Identity Access Management
 - [x] Scrum, Agile, and the SDLC
 - [x] SaaS Development
